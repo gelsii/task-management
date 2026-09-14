@@ -1,0 +1,1 @@
+export type statusTypes = "todo" | "in_progress" | "in_review" | "done"
